@@ -1,0 +1,6 @@
+[submodule "math-api"]
+	path = math-api
+	url = git@github.com:rcmendes/math-api.git
+[submodule "faker-api"]
+	path = faker-api
+	url = git@github.com:rcmendes/faker-api.git
